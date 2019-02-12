@@ -1,3 +1,3 @@
 # Javascript-Algorithms-And-Data-Structures-Certification
-for freeCodeCamp
+for https://www.freecodecamp.org/
 All the javascript challenges
