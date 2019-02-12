@@ -1,0 +1,3 @@
+var myList = [["Potato", 4],["Tomato", 10],["Onion", 43],["Chicken", 50],["Milk", 21]];
+
+
