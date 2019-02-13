@@ -1,0 +1,12 @@
+function myLocalScope() {
+  'use strict'; // you shouldn't need to edit this line
+  var myVar = "Jean";
+  console.log(myVar);
+}
+myLocalScope();
+
+// Run and check the console
+myLocalScope();
+// myVar is not defined outside of myLocalScope
+
+
